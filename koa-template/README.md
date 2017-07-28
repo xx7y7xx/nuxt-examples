@@ -28,4 +28,4 @@ For detailed explanation on how things work, checkout the [Nuxt.js docs](https:/
 
 ## Note
 
-Template source: [https://github.com/nuxt-community/koa-template](https://github.com/nuxt-community/koa-template)
+Template source: [https://github.com/nuxt-community/koa-template](https://github.com/nuxt-community/koa-template), and select koa version 2
