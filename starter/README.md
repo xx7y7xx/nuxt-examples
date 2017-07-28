@@ -1,5 +1,7 @@
 # starter
 
+Template source: [https://github.com/nuxt-community/starter-template](https://github.com/nuxt-community/starter-template)
+
 > Nuxt.js project
 
 ## Build Setup
