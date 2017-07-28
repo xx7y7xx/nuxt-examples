@@ -1,7 +1,5 @@
 # starter
 
-Template source: [https://github.com/nuxt-community/starter-template](https://github.com/nuxt-community/starter-template)
-
 > Nuxt.js project
 
 ## Build Setup
@@ -22,3 +20,8 @@ $ npm run generate
 ```
 
 For detailed explanation on how things work, checkout the [Nuxt.js docs](https://github.com/nuxt/nuxt.js).
+
+## Note
+
+Template source: [https://github.com/nuxt-community/starter-template](https://github.com/nuxt-community/starter-template)
+
